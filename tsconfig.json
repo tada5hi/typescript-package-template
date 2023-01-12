@@ -1,0 +1,9 @@
+{
+    "extends": "@tada5hi/tsconfig",
+    "include": [
+        "src/**/*.ts"
+    ],
+    "exclude": [
+        "node_modules/**/*"
+    ]
+}
